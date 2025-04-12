@@ -42,6 +42,8 @@ Passcode:N@#OR+3#
 
 JUnit tests for the staff role have been written in the `StaffDatabaseHelperTest.java` file.
 
+path : HW4/src/databasePart1/StaffDatabaseHelperTest.java
+
 ### Tests Included:
 
 - `testGetAllQuestionsAndAnswers()`
@@ -65,7 +67,7 @@ Javadoc documentation has been generated for the following files:
 - Staff-related methods in `DatabaseHelper.java`
 
 Javadoc Output Folder:  
-`/doc` or `/HW4-Javadoc`
+`/HW4/doc/index.html`
 
 **Javadoc Link:**  
 file:///C:/Users/ganesh/ASU-CSE360-SP25/HW4/doc/index.html
